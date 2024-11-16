@@ -13,7 +13,6 @@
  1.	Open new file and then select sketch icon.
  2.	Select the plane for sketching. 
  3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch.
- 
  ![image](https://user-images.githubusercontent.com/113594316/198232594-2187c1c1-4e85-437f-99f7-263bb1a3e968.png)
  4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
  
